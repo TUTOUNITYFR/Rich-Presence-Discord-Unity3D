@@ -9,12 +9,12 @@ Une fois Rich Presence installé et configuré, lorsqu'un utilisateur lancera vo
 ![alt text](https://www.tutounity.fr/upload/richpresence.jpg)
 
 Avec ce projet exemple, vous êtes libre de choisir :
-• le nom du jeu / programme affiché
-• les détails affichés (exemple : "Dans le niveau 1")
-• le statut affiché (exemple : "En ligne")
-• les images affichées (grande et petite)
-• l'utilisation ou non d'un chronomètre (calcul du temps de jeu)
-• ... et encore bien d'autres choses !
+- le nom du jeu / programme affiché
+- les détails affichés (exemple : "Dans le niveau 1")
+- le statut affiché (exemple : "En ligne")
+- les images affichées (grande et petite)
+- l'utilisation ou non d'un chronomètre (calcul du temps de jeu)
+- ... et encore bien d'autres choses !
 
 Si vous faites appel à ce répertoire GitHub pensez à me créditer dans votre jeu/programme. Ce n'est pas obligatoire mais c'est fortement apprécié.
 
