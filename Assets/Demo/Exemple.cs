@@ -1,11 +1,8 @@
 ﻿using UnityEngine;
 using DiscordPresence;
 
-
 public class Exemple : MonoBehaviour
 {
-    PresenceManager presenceManager;
-
     public void Click()
     {
         PresenceManager.UpdatePresence(detail: "Rich presence mis à jour");
