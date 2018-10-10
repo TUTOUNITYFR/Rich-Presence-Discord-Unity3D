@@ -9,4 +9,3 @@ public class Exemple : MonoBehaviour
         Debug.Log("Champ << détails >> mis à jour");
     }
 }
-
