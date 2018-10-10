@@ -19,14 +19,14 @@ Avec ce projet exemple, vous êtes libre de choisir :
 
 ## Exemples
 
-####La fonction suivante permet de mettre à jour le champ "detail" (expliqué dans la vidéo)
+Le script suivant permet de mettre à jour le champ "detail" (expliqué dans la vidéo)
 ```csharp
-// Cette fonction permet de mettre à jour le champ detail
 using UnityEngine;
 using DiscordPresence;
 
 public class Exemple : MonoBehaviour
 {
+    // Cette fonction permet de mettre à jour le champ detail
     public void Click()
     {
         PresenceManager.UpdatePresence(detail: "Rich presence mis à jour");
@@ -35,7 +35,7 @@ public class Exemple : MonoBehaviour
 }
 ```
 
-####La fonction suivante permet de démarrer un timer au moment où elle est lue (non expliqué dans la vidéo tutoriel)
+Le script suivant permet de démarrer un timer au moment où elle est lue (non expliqué dans la vidéo tutoriel)
 ```csharp
 using UnityEngine;
 using DiscordPresence;
