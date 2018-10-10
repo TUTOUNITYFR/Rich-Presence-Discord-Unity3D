@@ -35,7 +35,8 @@ public class Exemple : MonoBehaviour
 }
 ```
 
-Le script suivant permet de démarrer un timer au moment où elle est lue (non expliqué dans la vidéo tutoriel)
+Le script suivant permet de démarrer un timer au moment où la fonction "ClickForTime()" est lue (non expliqué dans la vidéo tutoriel)
+*On importe System pour avoir accès aux fonctions Time, on calcul ensuite la date et l'heure actuelle au format Unix (= le nombre de secondes qui se sont écoulées depuis le 01/01/1970) et on envoit ça au paramètre "start" de la fonction UpdatePresence()*
 ```csharp
 using UnityEngine;
 using DiscordPresence;
